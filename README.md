@@ -26,39 +26,11 @@ Additionally, the project provides a **3D cube visualization** to guide the user
 
 ---
 
-## 📂 Project Structure
 
-## 📂 Project Structure
-RubikCubeSolver/
-│── main.py # Main entry point
-│── cube_scanner.py # Handles camera capture & color detection
-│── solver.py # Applies Kociemba algorithm
-│── cube_visualizer.py # 3D cube visualization
-│── gui.py # User interface (optional)
-│── requirements.txt # Dependencies
-│── README.md # Documentation
 
-yaml
-نسخ الكود
 
----
+**🎮 How to Use**
 
-## ⚙️ Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/RubikCubeSolver.git
-   cd RubikCubeSolver
-Install dependencies:
-
-bash
-نسخ الكود
-pip install -r requirements.txt
-Run the project:
-
-bash
-نسخ الكود
-python main.py
-🎮 How to Use
 1-Hold your Rubik’s Cube in front of the camera.
 
 2- Scan all 6 faces (guided by the app).
